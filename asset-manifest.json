@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/1raPreEntregaReact-Iglesias/static/css/main.149ac21a.css",
+    "main.js": "/1raPreEntregaReact-Iglesias/static/js/main.41cf821d.js",
+    "static/js/787.5e1545fb.chunk.js": "/1raPreEntregaReact-Iglesias/static/js/787.5e1545fb.chunk.js",
+    "index.html": "/1raPreEntregaReact-Iglesias/index.html",
+    "static/media/bx-cart.svg": "/1raPreEntregaReact-Iglesias/static/media/bx-cart.662c32fa610ee37700f10a4dd3c31998.svg",
+    "main.149ac21a.css.map": "/1raPreEntregaReact-Iglesias/static/css/main.149ac21a.css.map",
+    "main.41cf821d.js.map": "/1raPreEntregaReact-Iglesias/static/js/main.41cf821d.js.map",
+    "787.5e1545fb.chunk.js.map": "/1raPreEntregaReact-Iglesias/static/js/787.5e1545fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.149ac21a.css",
+    "static/js/main.41cf821d.js"
+  ]
+}
