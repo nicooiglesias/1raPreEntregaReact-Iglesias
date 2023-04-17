@@ -1,0 +1,7 @@
+.Carrito {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .imagenCarro {
+    width: 30px;
+  }
