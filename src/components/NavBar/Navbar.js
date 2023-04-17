@@ -11,8 +11,8 @@ function Navbar() {
       </div>
       <div className="">
         <NavLink to={`/categoria/Remeras`} className=''>Remeras</NavLink>
+        <NavLink to={`/categoria/Bermudas`} className=''>Bermudas</NavLink> 
         <NavLink to={`/categoria/Zapatillas`} className=''>Zapatillas</NavLink>
-        <NavLink to={`/categoria/Bermudas`} className=''>Bermudas</NavLink>
         <NavLink to={`/categoria/Jeans`} className=''>Jeans</NavLink>
       </div>
       <CartWidget />

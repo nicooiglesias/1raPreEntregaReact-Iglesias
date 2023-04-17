@@ -7,19 +7,18 @@ const ItemDetailContainer = () => {
    
     const [products, setProducts] = useState(null)
 
-    const { productId } = useParams()
+    const { itemId } = useParams()
 
 
     useEffect(() => {
-        getProductsById(productId)
+        getProductsById(itemId)
             .then(response => {
-                console.log(response)
                 setProducts(response)
             })
             .catch(error => {
                 console.error(error)
             })
-    }, [productId])
+    }, [itemId])
 
 
   return (
