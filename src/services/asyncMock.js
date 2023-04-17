@@ -4,7 +4,7 @@ const products = [
         categoria: "Remeras",
         precio: 6000,
         stock: 12,
-        img: '1raPreEntregaReact-Iglesias/images/remeraBillabong.jpg'
+        img: '/1raPreEntregaReact-Iglesias/images/remeraBillabong.jpg'
     } ,
     {   id: 2,
         nombre: "Bermuda",
@@ -25,7 +25,7 @@ const products = [
         categoria: "Jeans",
         precio: 14000,
         stock: 12,
-        "img": '1raPreEntregaReact-Iglesias/images/jeansBillabong.jpg'
+        "img": '/1raPreEntregaReact-Iglesias/images/jeansBillabong.jpg'
     }
 ]
 export const getProducts = () => {
